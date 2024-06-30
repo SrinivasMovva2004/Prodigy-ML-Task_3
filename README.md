@@ -1,4 +1,5 @@
 # Prodigy-ML-Task_3
+LinkedIn Link:-https://www.linkedin.com/feed/update/urn:li:activity:7213087061384253440/
 SVM Image Classification: Cats vs Dogs
 This repository demonstrates image classification using Support Vector Machine (SVM) to distinguish between images of cats and dogs.
 
